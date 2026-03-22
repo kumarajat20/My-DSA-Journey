@@ -1,4 +1,4 @@
-# 🚀 DSA Practice Journey – Rajat Yadav
+# 🚀 DSA Practice Journey – Rajat Kumar
 
 Welcome to my Data Structures & Algorithms journey 🚀
 This repository documents my consistent effort to master DSA for technical interviews and top tech companies.
@@ -25,9 +25,9 @@ I solve problems daily to strengthen problem-solving and pattern recognition.
 
 ### 📊 Progress Tracker
 
-* Total Problems Solved: 0
-* Easy: 0
-* Medium: 0
+* Total Problems Solved: 4
+* Easy: 3
+* Medium: 1
 * Hard: 0
 
 ### 📁 Structure
@@ -45,14 +45,14 @@ LeetCode/Arrays/Rotate_Array/
 
 ## 📅 Daily Progress Log
 
-* Day 1: Two Sum
-* Day 2: Rotate Array
+* Day 1: Two Sum | Remove Element | Remove Duplicates | Rotate Array 
+
 
 ---
 
 ## 🎯 Goals
 
-* Solve 300+ DSA problems before placements
+* Solve 150+ DSA problems before placements
 * Master core patterns (Sliding Window, DP, Graphs)
 * Crack top product-based companies
 
