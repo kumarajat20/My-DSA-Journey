@@ -46,7 +46,7 @@ LeetCode/Arrays/Rotate_Array/
 ## 📅 Daily Progress Log
 
 * Day 1: Two Sum | Remove Element | Remove Duplicates | Rotate Array
-* Day 2 : Valid Square | Squares of Sorted Array 
+* Day 2 : Valid Perfect Square | Squares of Sorted Array 
 
 
 ---
