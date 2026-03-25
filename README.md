@@ -25,8 +25,8 @@ I solve problems daily to strengthen problem-solving and pattern recognition.
 
 ### 📊 Progress Tracker
 
-* Total Problems Solved: 7
-* Easy: 6
+* Total Problems Solved: 9
+* Easy: 8
 * Medium: 1
 * Hard: 0
 
@@ -46,7 +46,8 @@ LeetCode/Arrays/Rotate_Array/
 ## 📅 Daily Progress Log
 
 * Day 1: Two Sum | Remove Element | Remove Duplicates | Rotate Array
-* Day 2 : Valid Perfect Square | Squares of Sorted Array  | Running Sum of 1D Array
+* Day 2: Valid Perfect Square | Squares of Sorted Array  | Running Sum of 1D Array
+* Day 3: Concatenation of Array | Maximum Product of Three Numbers |
 
 
 ---
