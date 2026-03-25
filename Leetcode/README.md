@@ -5,3 +5,7 @@ Problems  :- 1. Two Sum  | 27. Remove Elements | 26. Remove Duplicates | 189.  R
 || Day 2 || 
 Topic :- Array 
 Problems :- 367. Valid Perfect Square | 977. Squares of a Sorted Array | 1480. Running Sum of 1D array 
+
+|| Day 3 ||
+Topic:- Array 
+Problems :- 1929. Concatenation of Array | 628. Maximum Product of Three Numbers
